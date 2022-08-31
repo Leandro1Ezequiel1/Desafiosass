@@ -1,0 +1,16 @@
+footer {
+    ul {
+      background-color: rgba(39, 38, 38, 0.418);
+      display: flex;
+      justify-content: space-around;
+      li {
+        &:hover {
+          background-color: wheat;
+          color: aqua;
+        }
+  
+        color: antiquewhite;
+        background-color: black;
+      }
+    }
+  }
